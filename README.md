@@ -1,3 +1,3 @@
 # hwchw316_resume
 
-## My Resume for data analyst job
+## My Resume for data analyst roles
