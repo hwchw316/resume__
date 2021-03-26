@@ -1090,6 +1090,7 @@ h4.modal-title {
 
 /*-- contact-form --*/ 
  .contact{
+	   background: url(../images/c2.jpg) no-repeat 0px 0px;
     background-size: cover;
 	min-height:500px;
 
@@ -1179,17 +1180,17 @@ h4.modal-title {
 	    margin: 0 auto;
 	text-align:center;
 }
-.w3ls_footer_grid_leftl{
+/* .w3ls_footer_grid_leftl{
 	    width: 55px;
     height: 55px;
     border-radius: 50px;
     text-align: center;
     background: #fba80c;
     margin: 0 auto;
-}
+} */
 .w3ls_footer_grid_leftl i{
 	color: #fff;
-    font-size: 1em;
+    font-size: 3em;
       padding: 20px;
 }
 .w3ls_footer_grid_leftr{
